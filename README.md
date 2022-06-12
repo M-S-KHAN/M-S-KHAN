@@ -1,4 +1,4 @@
-### Hi there, I'm Sajawak - aka [thepyclan][https://www.fiverr.com/thepyclan] 👋 
+### Hi there, I'm Sajawal - aka [thepyclan][fiverr] 👋 
 ## I'm an AI Developer in Python with experience in Flutter, React and Angular!!
 
 - 🔭 I just completed my 4 years as developer
@@ -47,12 +47,10 @@
 <br />
 
 ### Github Stats
-![Aryclenio GitHub Stats](https://github-readme-stats.vercel.app/api?username=reshail1&show_icons=true)
+![Aryclenio GitHub Stats]([![Sajawal's GitHub stats](https://github-readme-stats.vercel.app/api?username=M-S-KHAN)])
 
 
-[website]: https://reshailawan.com
-[course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/reshailawan
-[linkedin]: https://linkedin.com/in/reshail-muzammil-5
-[fiverr]: https://www.fiverr.com/reshailawan
-[upwork]: https://www.upwork.com/freelancers/~019dbdbef0c4d33e12
+[twitter]: https://twitter.com/sajawal_khan_
+[linkedin]: https://linkedin.com/in/m-sajawal-khan
+[fiverr]: https://www.fiverr.com/thepyclan
+[upwork]: https://www.upwork.com/freelancers/~01adb038200b0cc995
