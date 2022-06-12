@@ -1,4 +1,4 @@
-### Hi there, I'm Sajawak - aka [thepyclan][fiverr] 👋 
+### Hi there, I'm Sajawak - aka [thepyclan][https://www.fiverr.com/thepyclan] 👋 
 ## I'm an AI Developer in Python with experience in Flutter, React and Angular!!
 
 - 🔭 I just completed my 4 years as developer
