@@ -47,8 +47,15 @@
 <br />
 
 ### Github Stats
-![Sajawal's GitHub stats](https://github-readme-stats.vercel.app/api?username=M-S-KHAN&count_private=true)
+![Sajawal's GitHub stats](https://github-readme-stats.vercel.app/api?username=M-S-KHAN&count_private=true&theme=dracula&show_icons=true)
 
+
+### Coding Stats
+![Sajawal's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MSKHAN&theme=dracula)
+
+
+### Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M-S-KHAN&theme=dracula&langs_count=8)
 
 [twitter]: https://twitter.com/sajawal_khan_
 [linkedin]: https://linkedin.com/in/m-sajawal-khan
