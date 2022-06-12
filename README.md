@@ -11,8 +11,8 @@
 
 ### Hire Me!!
 
-[<img align="left" alt="fiverr.com/thepyclan" height="50" width="50" src="./fiverr.svg" />][fiverr]
-[<img align="left" alt="fiverr.com/reshailawan" width="50" height="50" src="./upwork.svg" />][upwork]
+[<img align="left" alt="fiverr.com/thepyclan" height="50" width="50" src="./fiverr.png" />][fiverr]
+[<img align="left" alt="fiverr.com/reshailawan" width="50" height="50" src="./upwork.png" />][upwork]
 
 <br />
 <br />
