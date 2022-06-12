@@ -47,7 +47,7 @@
 <br />
 
 ### Github Stats
-![Aryclenio GitHub Stats]([![Sajawal's GitHub stats](https://github-readme-stats.vercel.app/api?username=M-S-KHAN)])
+![Sajawal's GitHub stats](https://github-readme-stats.vercel.app/api?username=M-S-KHAN&count_private=true)
 
 
 [twitter]: https://twitter.com/sajawal_khan_
