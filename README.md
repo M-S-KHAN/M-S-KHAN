@@ -53,7 +53,7 @@
 
 
 ### Coding Stats
-![Sajawal's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MSKHAN&theme=dracula)
+![Sajawal's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MSKHAN&theme=dracula&v=2)
 
 
 ### Languages
