@@ -4,7 +4,7 @@
 - 🔭 I just completed my 4 years as developer
 - 🌱 I try learning something new everyday
 - 👯 I’m looking to work on freelance projects and longterm remote work!
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I feel like I'm multi-talented.
 
 
