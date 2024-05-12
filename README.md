@@ -2,7 +2,7 @@
 ## I'm an AI Developer in Python with experience in Flutter, React and Angular!
 
 - 🔭 I just completed my 5 years as developer.
-- 🌱 I try learning something new everyday. [Currently Next.js]
+- 🌱 I try learning something new everyday. (At the moment: Next.js, AWS Data Engineering, Backend with Golang)
 - 👯 I’m looking to work on freelance projects and longterm remote work!
 - 🥅 2024 Goals: Reach a wider clientele and acquire global business partners.
 - ⚡ Fun fact: I feel like I'm multi-talented.
