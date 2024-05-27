@@ -1,8 +1,8 @@
 ### Hi there, I'm Sajawal - aka [thepyclan][fiverr] 👋 
 ## I'm an AI Developer in Python with experience in Flutter, React and Angular!
 
-- 🔭 I just completed my 5 years as developer
-- 🌱 I try learning something new everyday
+- 🔭 I just completed my 5 years as developer.
+- 🌱 I try learning something new everyday.
 - 👯 I’m looking to work on freelance projects and longterm remote work!
 - 🥅 2024 Goals: Reach a wider clientele and acquire global business partners.
 - ⚡ Fun fact: I feel like I'm multi-talented.
