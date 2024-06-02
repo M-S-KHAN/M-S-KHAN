@@ -1,4 +1,4 @@
-### Hi there, I'm Sajawal - aka [thepyclan][fiverr] 👋 
+### Hi there, I'm Muhammad Sajawal Khan - aka [MSK][personal] 👋 
 ## I'm an AI Developer in Python with experience in Flutter, React and Angular!
 
 - 🔭 I just completed my 5 years as developer.
@@ -63,3 +63,4 @@
 [linkedin]: https://linkedin.com/in/m-sajawal-khan
 [fiverr]: https://www.fiverr.com/thepyclan
 [upwork]: https://www.upwork.com/freelancers/~01adb038200b0cc995
+[personal]: https://mskhan.vercel.app
