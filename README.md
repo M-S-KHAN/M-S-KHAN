@@ -1,5 +1,5 @@
 ### Hi there, I'm Muhammad Sajawal Khan - aka [MSK][personal] 👋 
-## I'm an AI Developer in Python with experience in Flutter, React and Angular!
+## I'm an Artificial Intelligence Engineer in Python with experience in Flutter, Next.js and AWS Cloud!
 
 - 🔭 I just completed my 5 years as developer.
 - 🌱 I try learning something new everyday. (At the moment: Next.js, AWS Data Engineering, Backend with Golang)
