@@ -38,6 +38,8 @@
 ![M-S-KHAN's GitHub stats](https://github-readme-stats-orcin-pi-41.vercel.app/api?username=M-S-KHAN&show_icons=true&theme=vue-dark&count_private=true&include_all_commits=true&hide_rank=true)
 
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=M-S-KHAN&theme=onestar&no-frame=true&rank=-?&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
+
 ### Coding Stats
 ![Sajawal's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MSKHAN&theme=dracula&v=2)
 
