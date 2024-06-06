@@ -20,7 +20,6 @@ I'm an **Artificial Intelligence Engineer** with a passion for developing cuttin
 - **GitHub:** [M-S-KHAN](https://github.com/M-S-KHAN)
 - **YouTube:** [MSK Devs](https://youtube.com/@mskdevs)
 
-Let's connect and build something revolutionary together!
 
 ### Hire Me!
 
@@ -28,14 +27,6 @@ Let's connect and build something revolutionary together!
 [<img align="left" alt="fiverr.com/reshailawan" width="50" height="50" src="./upwork.png" />][upwork]
 
 <br />
-<br />
-<br />
-
-### Connect with me:
-
-[<img align="left" alt="reshailawan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="reshailawan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
 <br />
 <br />
 
