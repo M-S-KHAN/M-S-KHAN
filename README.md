@@ -34,18 +34,17 @@
 <br />
 <br />
 
-### Github Stats
-![M-S-KHAN's GitHub stats](https://github-readme-stats-orcin-pi-41.vercel.app/api?username=M-S-KHAN&show_icons=true&theme=vue-dark&count_private=true&include_all_commits=true&hide_rank=true)
-
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=M-S-KHAN&theme=onestar&no-frame=true&rank=-?&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
 
+
+### Github Stats
+![M-S-KHAN's GitHub stats](https://github-readme-stats-orcin-pi-41.vercel.app/api?username=M-S-KHAN&show_icons=true&theme=gotham&count_private=true&include_all_commits=true&hide_rank=true)
+
 ### Coding Stats
-![Sajawal's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MSKHAN&theme=dracula&v=2)
+![Sajawal's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MSKHAN&theme=gotham&v=2)
 
+[![M-S-KHAN's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=M-S-KHAN&theme=gotham)](https://git.io/streak-stats)
 
-### Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M-S-KHAN&theme=dracula&langs_count=8)
 
 [twitter]: https://twitter.com/sajawal_khan_
 [linkedin]: https://linkedin.com/in/m-sajawal-khan
