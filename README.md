@@ -38,12 +38,12 @@
 
 
 ### Github Stats
+[![M-S-KHAN's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=M-S-KHAN&theme=gotham)](https://git.io/streak-stats)
+
 ![M-S-KHAN's GitHub stats](https://github-readme-stats-orcin-pi-41.vercel.app/api?username=M-S-KHAN&show_icons=true&theme=gotham&count_private=true&include_all_commits=true&hide_rank=true)
 
 ### Coding Stats
-![Sajawal's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MSKHAN&theme=gotham&v=2)
-
-[![M-S-KHAN's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=M-S-KHAN&theme=gotham)](https://git.io/streak-stats)
+[![M-S-KHAN's wakatime stats](https://github-readme-stats-orcin-pi-41.vercel.app/api/wakatime?username=M-S-KHAN&theme=vue-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [twitter]: https://twitter.com/sajawal_khan_
