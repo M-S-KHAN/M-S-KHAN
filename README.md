@@ -28,7 +28,7 @@
 
 ### Languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,nextjs,nodejs,python,anaconda,androidstudio,angular,bash,dart,debian,django,fastapi,flask,linux,pnpm,raspberrypi,redis,selenium,terraform,,aws,flutter,express,pytorch,tensorflow,graphql,mongodb,postgres,firebase,gcp,materialui,sass,git,postman,vscode,figma,&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,nextjs,nodejs,python,anaconda,androidstudio,angular,bash,dart,debian,django,fastapi,flask,linux,pnpm,raspberrypi,redis,selenium,terraform,aws,flutter,express,pytorch,tensorflow,graphql,mongodb,postgres,firebase,gcp,materialui,sass,git,postman,vscode,figma,&theme=dark)](https://skillicons.dev)
 
 
 <br />
