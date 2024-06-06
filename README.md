@@ -50,6 +50,7 @@ I'm an **Artificial Intelligence Engineer** with a passion for developing cuttin
 ### Coding Stats
 [![M-S-KHAN's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MSKHAN&theme=gotham&layout=compact)]([https://www.fiverr.com/thepyclan])
 
+[![](https://visitcount.itsvg.in/api?id=M-S-KHAN&icon=0&color=0)](https://visitcount.itsvg.in)
 
 [twitter]: https://twitter.com/sajawal_khan_
 [linkedin]: https://linkedin.com/in/m-sajawal-khan
