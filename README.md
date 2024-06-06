@@ -1,14 +1,28 @@
-### Hi there, I'm Muhammad Sajawal Khan - aka [MSK][personal] 👋 
-## I'm an Artificial Intelligence Engineer in Python with experience in Flutter, Next.js and AWS Cloud!
+# Hello, World! 🌎 I'm Muhammad Sajawal Khan (MSK) 👋
 
-- 🔭 I just completed my 5 years as developer.
-- 🌱 I try learning something new everyday. (At the moment: Next.js, AWS Data Engineering, Backend with Golang)
-- 👯 I’m looking to work on freelance projects and longterm remote work!
-- 🥅 2024 Goals: Reach a wider clientele and acquire global business partners.
-- ⚡ Fun fact: I feel like I'm multi-talented.
+### 🚀 About Me
+I'm an **Artificial Intelligence Engineer** with a passion for developing cutting-edge solutions using **Python**. With extensive experience in **Flutter**, **Next.js**, and **AWS Cloud**, I thrive in dynamic environments that challenge my skills and allow me to make a significant impact. Currently, I lead the development of AI-powered smartglasses at Mavis Technologies in the UK.
 
+### 💻 What I'm Up To
+- 🎉 Celebrating **5 years** of transformative technology development.
+- 🌱 Deep diving into **Next.js**, mastering **AWS Data Engineering**, and exploring **Backend Development with Golang**.
+- 🛠️ Looking for exciting **freelance opportunities** and **long-term remote projects** where I can contribute and learn.
 
-### Hire Me!!
+### 🎯 2024 Goals
+- Expand my professional network and secure global business partnerships.
+- Leverage my skills to reach a wider clientele, helping businesses harness the power of AI and cloud technologies.
+
+### 😄 Fun Fact
+- I'm a multi-talented tech enthusiast who loves solving puzzles not just on the screen, but in real life too!
+
+### 📫 How to Reach Me
+- **LinkedIn:** [m-sajawal-khan](https://linkedin.com/in/m-sajawal-khan)
+- **GitHub:** [M-S-KHAN](https://github.com/M-S-KHAN)
+- **YouTube:** [MSK Devs](https://youtube.com/@mskdevs)
+
+Let's connect and build something revolutionary together!
+
+### Hire Me!
 
 [<img align="left" alt="fiverr.com/thepyclan" height="50" width="50" src="./fiverr.png" />][fiverr]
 [<img align="left" alt="fiverr.com/reshailawan" width="50" height="50" src="./upwork.png" />][upwork]
@@ -34,7 +48,7 @@
 <br />
 <br />
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=M-S-KHAN&theme=onestar&no-frame=true&rank=-?&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=M-S-KHAN&theme=discord&no-frame=true&rank=-?&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ### Github Stats
