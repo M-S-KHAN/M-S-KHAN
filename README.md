@@ -43,7 +43,7 @@
 ![M-S-KHAN's GitHub stats](https://github-readme-stats-orcin-pi-41.vercel.app/api?username=M-S-KHAN&show_icons=true&theme=gotham&count_private=true&include_all_commits=true&hide_rank=true)
 
 ### Coding Stats
-[![M-S-KHAN's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MSKHAN&theme=vue-dark&layout=compact)]([https://github.com/anuraghazra/github-readme-stats](https://www.fiverr.com/thepyclan))
+[![M-S-KHAN's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MSKHAN&theme=gotham&layout=compact)]([https://www.fiverr.com/thepyclan])
 
 
 [twitter]: https://twitter.com/sajawal_khan_
