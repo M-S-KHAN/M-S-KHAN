@@ -35,7 +35,7 @@
 <br />
 
 ### Github Stats
-![Sajawal's GitHub stats](https://github-readme-stats.vercel.app/api?username=M-S-KHAN&count_private=true&theme=dracula&show_icons=true)
+![M-S-KHAN's GitHub stats](https://github-readme-stats-orcin-pi-41.vercel.app/api?username=M-S-KHAN&show_icons=true&theme=vue-dark&count_private=true&include_all_commits=true&hide_rank=true)
 
 
 ### Coding Stats
