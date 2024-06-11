@@ -5,7 +5,7 @@ I'm an **Artificial Intelligence Engineer** with a passion for developing cuttin
 
 ### 💻 What I'm Up To
 - 🎉 Celebrating **5 years** of transformative technology development.
-- 🌱 Deep diving into **Next.js**, mastering **AWS Data Engineering**, and exploring **Backend Development with Golang**.
+- 🌱 Deep diving into **Next.js and React.js**, mastering **AWS Data Engineering**, and exploring **Backend Development with Django and DRF**.
 - 🛠️ Looking for exciting **freelance opportunities** and **long-term remote projects** where I can contribute and learn.
 
 ### 🎯 2024 Goals
