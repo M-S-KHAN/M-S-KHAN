@@ -1,7 +1,7 @@
 # Hello, World! 🌎 I'm Muhammad Sajawal Khan (MSK) 👋
 
 ### 🚀 About Me
-I'm an **Artificial Intelligence Engineer** with a passion for developing cutting-edge solutions using **Python**. With extensive experience in **Flutter**, **Next.js**, and **AWS Cloud**, I thrive in dynamic environments that challenge my skills and allow me to make a significant impact. Currently, I lead the development of AI-powered smartglasses at Mavis Technologies in the UK.
+I'm an **Artificial Intelligence Engineer** with a passion for developing cutting-edge solutions using **Python**. With extensive experience in **Flutter**, **Next/React.js**, and **AWS Cloud**, I thrive in dynamic environments that challenge my skills and allow me to make a significant impact. Currently, I lead the development of AI-powered smartglasses at Mavis Technologies in the UK.
 
 ### 💻 What I'm Up To
 - 🎉 Celebrating **5 years** of transformative technology development.
@@ -19,6 +19,7 @@ I'm an **Artificial Intelligence Engineer** with a passion for developing cuttin
 - **LinkedIn:** [m-sajawal-khan](https://linkedin.com/in/m-sajawal-khan)
 - **GitHub:** [M-S-KHAN](https://github.com/M-S-KHAN)
 - **YouTube:** [MSK Devs](https://youtube.com/@mskdevs)
+- **Instagram:** [MSK Devs](https://instagram.com/msk.grams)
 
 
 ### Hire Me!
