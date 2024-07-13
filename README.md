@@ -1,11 +1,11 @@
 # Hello, World! 🌎 I'm Muhammad Sajawal Khan (MSK) 👋
 
 ### 🚀 About Me
-I'm an **Artificial Intelligence Engineer** with a passion for developing cutting-edge solutions using **Python**. With extensive experience in **Flutter**, **Next/React.js**, and **AWS Cloud**, I thrive in dynamic environments that challenge my skills and allow me to make a significant impact. Currently, I lead the development of AI-powered smartglasses at Mavis Technologies in the UK.
+I'm a **Artificial Intelligence and Data Engineer** with a passion for developing cutting-edge solutions using **Python** and **Javascript**. With extensive experience in **Flutter**, **Next/React.js**, and **Azure Cloud**, I thrive in dynamic environments that challenge my skills and allow me to make a significant impact. Currently, I'm a Data Engineer at Phipps Henson McAllister, here in the UK.
 
 ### 💻 What I'm Up To
 - 🎉 Celebrating **5 years** of transformative technology development.
-- 🌱 Deep diving into **Next.js and React.js**, mastering **AWS Data Engineering**, and exploring **Backend Development with Django and DRF**.
+- 🌱 Deep diving into **Next.js and React.js**, mastering **Azure Data/AI Engineering**, and exploring **Backend Development with Django and DRF**.
 - 🛠️ Looking for exciting **freelance opportunities** and **long-term remote projects** where I can contribute and learn.
 
 ### 🎯 2024 Goals
