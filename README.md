@@ -1,7 +1,7 @@
 # Hello, World! 🌎 I'm Muhammad Sajawal Khan (MSK) 👋
 
 ### 🚀 About Me
-I'm a **Artificial Intelligence and Data Engineer** with a passion for developing cutting-edge solutions using **Python** and **Javascript**. With extensive experience in **Flutter**, **Next/React.js**, and **Azure Cloud**, I thrive in dynamic environments that challenge my skills and allow me to make a significant impact. Currently, I'm a Data Engineer at Phipps Henson McAllister, here in the UK.
+I'm a **Artificial Intelligence and Data Engineer** with a passion for developing cutting-edge solutions using **Python** and **Javascript**. With extensive experience in **Flutter**, **Next/React.js**, and **Azure Cloud**, I thrive in dynamic environments that challenge my skills and allow me to make a significant impact. Currently, I'm a Data Engineer at **Phipps Henson McAllister**, here in the **UK**.
 
 ### 💻 What I'm Up To
 - 🎉 Celebrating **5 years** of transformative technology development.
