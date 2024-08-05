@@ -7,6 +7,8 @@ I'm a **Artificial Intelligence and Data Engineer** with a passion for developin
 - 🎉 Celebrating **5 years** of transformative technology development.
 - 🌱 Deep diving into **Next.js and React.js**, mastering **Azure Data/AI Engineering**, and exploring **Backend Development with Django and DRF**.
 - 🛠️ Looking for exciting **freelance opportunities** and **long-term remote projects** where I can contribute and learn.
+- 📚 Sharing my knowledge and experience on my **YouTube channel**, **MSK Devs**.
+
 
 ### 🎯 2024 Goals
 - Expand my professional network and secure global business partnerships.
