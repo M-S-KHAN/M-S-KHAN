@@ -12,7 +12,8 @@ I'm a **Artificial Intelligence and Data Engineer** with a passion for developin
 
 ### 🎯 2024 Goals
 - Expand my professional network and secure global business partnerships.
-- Leverage my skills to reach a wider clientele, helping businesses harness the power of AI and cloud technologies.
+- Level up my skills in **Machine Learning** and **Data Engineering**.
+- Complete my Master's in **Computing** from **University of Northampton**.
 
 ### 😄 Fun Fact
 - I'm a multi-talented tech enthusiast who loves solving puzzles not just on the screen, but in real life too!
