@@ -16,7 +16,9 @@ I'm a **Artificial Intelligence and Data Engineer** with a passion for developin
 - Complete my Master's in **Computing** from **University of Northampton**.
 
 ### 😄 Fun Fact
-- I'm a multi-talented tech enthusiast who loves solving puzzles not just on the screen, but in real life too!
+- I love to **travel** and **explore new cultures**.
+- I'm a **foodie** and love to try new cuisines.
+- I can sing really well and learning to play the **piano**.
 
 ### 📫 How to Reach Me
 - **LinkedIn:** [m-sajawal-khan](https://linkedin.com/in/m-sajawal-khan)
