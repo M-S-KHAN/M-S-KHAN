@@ -22,9 +22,9 @@ I'm a **Artificial Intelligence and Data Engineer** with a passion for developin
 
 ### 📫 How to Reach Me
 - **LinkedIn:** [m-sajawal-khan](https://linkedin.com/in/m-sajawal-khan)
-- **GitHub:** [M-S-KHAN](https://github.com/M-S-KHAN)
 - **YouTube:** [MSK Devs](https://youtube.com/@mskdevs)
 - **Instagram:** [MSK Devs](https://instagram.com/msk.grams)
+- **Twitter:** [sajawal_khan_](https://twitter.com/sajawal_khan_)
 
 
 ### Hire Me!
